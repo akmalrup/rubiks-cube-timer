@@ -1,0 +1,19 @@
+# .gitignore
+
+# Node modules
+frontend/node_modules
+backend/node_modules
+
+# Logs
+*.log
+
+# Env files
+frontend/.env
+backend/.env
+
+# Build files
+dist
+build
+
+# Mac system files
+.DS_Store
